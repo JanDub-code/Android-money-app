@@ -1,0 +1,1 @@
+Bezplatná bankovní aplikace pro správu výdajů a příjmů. Vyzkoušejte jednoduché kategorizování plateb, výběrů a vkladů pro lepší přehled. Nastavte si limity plateb a výběrů a najděte nejbližší pobočku.

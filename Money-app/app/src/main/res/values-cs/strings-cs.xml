@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dub Bank</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="change_text">Změnit</string>
+    <string name="monthly_limit_label">Měsíční limit výběru</string>
+    <string name="max_payment_limit_label">Maximální limit platby</string>
+    <string name="save_button">Uložit</string>
+    <string name="back_button">Zpět</string>
+
+    <string name="main_title">Hlavní stránka</string>
+    <string name="menu">Menu</string>
+
+    <string name="choose_picture">Vybrat obrázek</string>
+    <string name="delete_picture">Smazat obrázek</string>
+    <string name="paylimit">Platební limit</string>
+    <string name="statistic_title">Statistiky</string>
+
+    <string name="price">Částka</string>
+    <string name="date">Datum</string>
+    <string name="type">Typ</string>
+    <string name="recipient">Příjemce</string>
+    <string name="detail">Detail</string>
+    <string name="paytypepurchase">Platba</string>
+    <string name="paytype">Platební typ</string>
+
+
+    <string name="withdrawlimit">Limit výběru</string>
+
+    <string name="deposit">Vklad</string>
+    <string name="withdraw">Výběr</string>
+
+    <string name="addnewpay">Přidat novou platbu</string>
+    <string name="addnewwith">Přidat nový výběr</string>
+    <string name="addnewdep">Přidat nový vklad</string>
+    <string name="savetransaction">Uložit transakci</string>
+    <string name="me">Já</string>
+
+    <string name="currentbalance">Váš aktuální stav účtu : </string>
+
+    <string name="appversion">Verze 1.0.0</string>
+
+    <string name="edit_trans">Editace</string>
+    <string name="change_trans">Změna transakce</string>
+    <string name="update">Aktualizovat transakci</string>
+    <string name="delete">Odstranit transakci</string>
+
+    <string name="income">Přijmy</string>
+    <string name="expenditure">Výdaje</string>
+
+    <string name="where">Kde nás najdete</string>
+    <string name="whereinfo">Nově nás můžete navštívit v Brně na Joštova 2 u České</string>
+    <string name="wherebranch">Nová pobočka v Brně</string>
+
+
+
+
+
+</resources>

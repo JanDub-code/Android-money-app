@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Dub Bank</string>
+    <string name="settings_title">Settings</string>
+    <string name="change_text">Change</string>
+    <string name="monthly_limit_label">Monthly limit withdrawal</string>
+    <string name="max_payment_limit_label">Maximum payment limit</string>
+    <string name="save_button">Save</string>
+    <string name="back_button">Back</string>
+
+    <string name="main_title">Main Page</string>
+    <string name="menu">Menu</string>
+
+    <string name="choose_picture">Choose picture</string>
+    <string name="delete_picture">Delete picture</string>
+    <string name="paylimit">Pay Limit</string>
+    <string name="statistic_title">Statistics</string>
+
+    <string name="price">Amount</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="recipient">Recipient</string>
+    <string name="detail">Detail</string>
+    <string name="paytype">Pay type</string>
+    <string name="paytypepurchase">Payment</string>
+
+
+    <string name="withdrawlimit">Withdraw limit</string>
+
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+
+    <string name="addnewpay">Add new payment</string>
+    <string name="addnewwith">Add new withdraw</string>
+    <string name="addnewdep">Add new deposit</string>
+    <string name="savetransaction">Save Transaction</string>
+
+    <string name="currentbalance">Your current balance : </string>
+
+
+    <string name="me">Me</string>
+
+
+    <string name="appversion">Version 1.0.0</string>
+
+    <string name="edit_trans">Edit</string>
+    <string name="change_trans">Change transaction</string>
+    <string name="update">Update transaction</string>
+    <string name="delete">Delete transaction</string>
+
+    <string name="income">Income</string>
+    <string name="expenditure">Expenditure</string>
+
+    <string name="where">Branch office</string>
+    <string name="whereinfo">You can find us in a new office in Brno at Joštova 2 near Česká Street</string>
+    <string name="wherebranch">New office in Brno</string>
+
+
+
+
+
+
+
+
+
+</resources>
